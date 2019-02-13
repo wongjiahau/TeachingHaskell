@@ -38,6 +38,7 @@ NULL 1
 <li>You can use any programming languages you want.</li>
 <li>You may choose to do this alone or do it as a team with your friends</li>
 <li>The actual <code>shape.txt</code> file is at <a href="https://gist.githubusercontent.com/wongjiahau/0588dc263a5c20d5bc3f94f5efc598d3/raw/c46353aab0aa08831547bc5f3fcc705014699b5b/shape.txt">https://gist.githubusercontent.com/wongjiahau/0588dc263a5c20d5bc3f94f5efc598d3/raw/c46353aab0aa08831547bc5f3fcc705014699b5b/shape.txt</a></li>
+<li>You are given one hour to complete this task</li>
 </ul>
 <h2 id="extra-things">Extra things</h2>
 <p>Your code should be easily extendable, because in the future, your boss might want to add new shapes, so be careful on how you model your data and write your code.</p>
