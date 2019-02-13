@@ -9,6 +9,6 @@
 </code></pre>
 <pre><code>(x -&gt; (y -&gt; x y) x)(z -&gt; w)
 </code></pre>
-<pre><code>((((λf.(λg.(λx.((fx)(g x)))))(λm.(λn.(n m))))(λn.z))p)
+<pre><code>(((f -&gt; (g -&gt; (x -&gt; (f x)(g x))))(m -&gt; (n -&gt; n m)))(n -&gt; z)) p)
 </code></pre>
 
